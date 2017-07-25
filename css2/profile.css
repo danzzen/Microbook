@@ -1,0 +1,56 @@
+body{
+	overflow-y:scroll;
+	margin:0; 
+	padding:0;
+	background-color:#fff;
+}
+#info{
+	float:left;
+	width:600px; height:700px;
+	min-width:800px; min-height:700px;
+	margin-left:10%; margin-top:100px; 
+	color: black; background-color: #fff;
+	border:2px solid black; border-radius: 5px;
+}
+
+#data{
+	margin-left:100px !important; margin-top:5px !important;
+	margin:25px; width:600px;
+	background-color:#b8b894;
+	display: inline;
+}
+
+#desc{
+	margin-left:100px !important;
+	margin:25px;
+	display: inline;
+}
+#proinfo{
+	background-color: #b35900 !important;
+	padding:20px;
+	color:#FFF;
+}
+#sidetitle{
+	background-color: #b35900 !important;
+	padding:10px;
+	color:#FFF;
+}
+#heading{
+color:#FFF;
+}
+
+#sidebar{
+	margin:100px; margin-left:200px !important;
+	width:250px;
+	height:300px;
+	background-color:#FFF; border-radius:5px;
+	float:left;
+	border:2px solid black;
+}
+#sidelinks{
+	text-decoration:none;
+	padding:5px;
+	margin-top:300px;
+	background-color:#b8b894;
+	color:#000;
+}

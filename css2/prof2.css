@@ -1,0 +1,45 @@
+
+#table{
+	display:table;
+	width:75%;
+	margin:auto;
+	background-color:white;
+}
+#row{
+	display:table-row;
+	padding:5px;
+	background-color: #f8f8f8;
+
+}
+#info{
+	display:table-cell;
+	padding:5px;
+	width:50%;
+}
+#detail{
+	color: #333;
+font-size: 15px;
+display: block;
+padding: 10px;
+font-weight:bold;	
+}
+#qa{
+	display:table-cell;
+	padding-top:10px;
+	vertical-align:top;
+}
+h2{
+	padding:5px;
+	
+font-family:cursive;
+}
+.det{
+margin-left:5px;
+
+font-family:cursive;
+font-weight:bold;
+font-size:1em;	
+}
+#desc{
+	padding-bottom:10px;
+}

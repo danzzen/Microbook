@@ -1,0 +1,136 @@
+body{
+font-family: serif,sans-serif,cursive,monoscape;
+font-size: 1em;
+margin: 0px;
+background-color:white;
+}
+#hptitle{
+	display:table;
+	height:140px;
+	width:100%;
+	background-color:white;
+	
+}
+	div#titlerow{
+		display:table-row;
+		margin-top:10px;
+		height:140px;
+		width:100%;
+		border-spacing:10px;
+	}
+		div#titlerow div#hplogo{
+		width:25%;
+		height:140px;
+		display:table-cell;
+		}
+			img#logoimg{
+			margin-left:80px;
+			height:140px;
+			width:200px;
+			}
+		div#titlerow div#webname{
+		width:50%;
+		text-align:center;
+		display:table-cell;
+		vertical-align:top;
+		}
+			h1{
+			margin-top:35px;
+			color:#F9CC6B;
+			font-weight:normal;
+			padding-bottom:0px;
+			margin-bottom:0px;
+			}
+
+			
+			
+			
+#nav{
+	background-color:blue;
+	margin:0px;
+}
+	#nav ul{
+	margin-right:auto;
+	margin-left:auto;
+	margin-top:0px;
+	margin-bottom:5px;
+	list-style-type:none;
+	padding:10px 0px 10px 0px;
+	text-align:center;
+	width:100%;
+	}
+		#nav ul li{
+		display:inline;
+		padding:10px 15px 10px 10px;
+		border-right: 1px solid #f9e8e8;
+		}
+		
+		#nav ul#bar li a{  
+		font-size:1.1em;
+			color:#ece7ee;
+			text-decoration:blink;
+			font-weight:normal;
+			
+		}
+			#nav ul#bar li a:link{
+				color:white;
+				text-decoration:blink;
+				font-weight:normal;
+			}
+		    #nav ul#bar li a:hover{
+				color:#caf062;
+			}
+div#homebody{
+	display:table;
+}
+	div#homebody div#homebodyrow{
+		display:table-row;
+		height:800px;
+	}
+		div#homebody div#homebodyrow div#col1{
+			display:table-cell;
+			width:90%;
+			padding:10px;
+			margin:0px;
+			vertical-align:top;
+		}
+		div#homebody div#homebodyrow div#col2{
+		display:table-cell;
+			width:50%;
+			padding:10px;
+			margin:5px;
+			vertical-align:top;	
+		}
+			div#homebody div#homebodyrow div#col2 div#col21{
+				margin:5px;
+				padding:10px;
+				background-color:#c8f5f7;
+				border-bottom:4px solid #15e9f1;
+			}
+			div#homebody div#homebodyrow div#col2 div#col22{
+				margin:10px;
+				padding:5px;
+				background-color:#eaefec;
+				border-bottom:4px solid #06b43f;
+			}
+						div#homebody div#homebodyrow div#col2 div#col22 ul{
+							list-style-type:none;
+							
+						}
+						div#homebody div#homebodyrow div#col2 div#col22 ul li{
+							border-bottom:1px dotted #bdbebd;
+							padding:5px;
+						}
+						div#homebody div#homebodyrow div#col2 div#col22 h1{
+					     color:#07b741;
+                         text-align:center;
+						 font-size:1.3em;
+						 padding:5px;
+						 padding-top:2px;
+						 border-bottom:1.5px solid #06b43f;
+						 margin-top:1px;
+						}
+
+
+
+

@@ -1,0 +1,43 @@
+body {
+	
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+#questionbody{
+	max-width:800px;
+	margin: auto;
+	margin-top:0px;
+	background-color:#e6e6e6;
+	
+	padding: 10px;
+}
+h2{
+	color:black;
+  padding-left:30px;	
+	
+}
+article{
+	background-color: #d9d9d9;
+}
+h1{
+	color: #ff5050;
+	font-weight:bold;
+}
+#questionbody p{
+	max-width:800px;
+	margin:20px;
+	max-height:120px;
+	padding:10px;
+	margin:10px;
+	font-weight:normal;
+	
+	
+}
+ a{  
+		    font-size:1.1em;
+			color:black;
+			text-decoration:blink;
+			font-weight:normal;
+ }
